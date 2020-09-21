@@ -1,7 +1,11 @@
-### ![Header](header.gif)
+### [![Header](header.gif)](https://github.com/tylerjl)
 
-*best viewed with ![Netscape](netscape.gif) Navigator. can't find this site from AltaVista? Just use __AOL KEYWORD: KU🅱ER🅱ETES, DADDY-O__ | using a Sound Blaster? enable Your ![sound](sound.gif) and my favorite MIDI may (or may not) play!*
+*best viewed with [![Netscape](netscape.gif)](https://isp.netscape.com/) Navigator. can't find this site from AltaVista? Just use __AOL KEYWORD: KU🅱ER🅱ETES, DADDY-O__ ~~~~~~~ using a Sound Blaster? enable Your [![sound](sound.gif)](https://www.youtube.com/watch?v=djV11Xbc914) and my favorite MIDI may (or may not) play!*
 
-__pardon our mess! ![Under Construction](construction.gif) planned for completion in the summer of 1998__
+__pardon our mess! [![Under Construction](construction.gif)](#) planned for completion in the summer of 1998__ [![Baby](baby.gif)](#)
 
-![Previous](previousimage.gif) ![Webring](webring.gif) ![Next](nextimage.gif)
+| Neopets                                            |
+|----------------------------------------------------|
+| [![Neopets](neopets.gif)](http://www.neopets.com/) |
+
+[![Previous](previousimage.gif)](https://www.youtube.com/watch?v=B-N1yJyrQRY) [![Webring](webring.gif)](telnet://towel.blinkenlights.nl) [![Next](nextimage.gif)](https://www.ebaumsworld.com/)
