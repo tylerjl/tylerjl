@@ -4,8 +4,4 @@
 
 __pardon our mess! [![Under Construction](construction.gif)](#) planned for completion in the summer of 1998__ [![Baby](baby.gif)](#)
 
-| Neopets                                            |
-|----------------------------------------------------|
-| [![Neopets](neopets.gif)](http://www.neopets.com/) |
-
 [![Previous](previousimage.gif)](https://www.youtube.com/watch?v=B-N1yJyrQRY) [![Webring](webring.gif)](telnet://towel.blinkenlights.nl) [![Next](nextimage.gif)](https://www.ebaumsworld.com/)
