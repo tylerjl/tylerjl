@@ -4,4 +4,4 @@
 
 __pardon our mess! [![Under Construction](construction.gif)](#) planned for completion in the summer of 1998__ [![Baby](baby.gif)](https://www.youtube.com/watch?v=ygI-2F8ApUM)
 
-[![Previous](previousimage.gif)](https://www.youtube.com/watch?v=B-N1yJyrQRY) [![Webring](webring.gif)](telnet://towel.blinkenlights.nl) [![Next](nextimage.gif)](https://www.ebaumsworld.com/)
+[![Previous](previousimage.gif)](https://www.youtube.com/watch?v=B-N1yJyrQRY) [![Webring](webring.gif)](https://www.spacejam.com/) [![Next](nextimage.gif)](https://www.ebaumsworld.com/)
