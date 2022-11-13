@@ -10,6 +10,6 @@ __pardon our mess! [![Under Construction](construction.gif)](https://lmgtfy.app/
 
 ---
 
-[toot](https://typing.ink/@tyler){:rel="me"}
+<a rel="me" href="https://typing.ink/@tyler">toot</a>
 
 *you are visitor number [![Visitor](visitor.gif)](#)*
